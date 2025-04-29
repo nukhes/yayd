@@ -21,7 +21,7 @@ python src/main.py [ARGS] [URL]
 ```
 
 Download a test video
-```bash
+```
 python src/main.py https://www.youtube.com/watch?v=xvFZjo5PgG0
 ```
 
