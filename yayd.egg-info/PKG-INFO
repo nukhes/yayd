@@ -1,3 +1,25 @@
+Metadata-Version: 2.4
+Name: yayd
+Version: 0.1.0
+Summary: Easy YouTube downloader built with yt-dlp.
+Home-page: https://github.com/nukhes/yayd
+Author: nukhes
+Author-email: nukhes@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: yt-dlp
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # Yet Another Youtube Downloader
 
 A simple, cross-platform Python script to download YouTube videos or audio with customizable quality. Built on top of the powerful [yt-dlp](https://github.com/yt-dlp/yt-dlp) and saves files automatically to your system's default Downloads folder.

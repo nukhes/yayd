@@ -1,6 +1,6 @@
 import os
 import argparse
-from utils import get_download_folder, download_task 
+from yayd.utils import get_download_folder, download_task
 
 def video_quality(choice: str) -> dict:
 	"""Return quality option"""

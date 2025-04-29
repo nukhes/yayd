@@ -26,8 +26,6 @@ venv/
 Thumbs.db
 desktop.ini
 
-# Logs e arquivos temporários
 *.log
 *.tmp
-
-# Config
+build/

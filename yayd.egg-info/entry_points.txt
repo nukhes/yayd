@@ -1,0 +1,2 @@
+[console_scripts]
+yayd = yayd.downloader:main
